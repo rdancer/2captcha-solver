@@ -43,6 +43,7 @@
                 "content/style.css"
             ],
             "js": [
+                "API_KEY.js",
                 "vendor/jquery/3.5.1/jquery.min.js",
                 "common/config.js",
                 "content/core_helpers.js",
